@@ -1,0 +1,7 @@
+../Src/uart_driver.c:6:17:usart_brr_from_pclk	1
+../Src/uart_driver.c:15:6:usart3_pb10_pb11_init_115200	1
+../Src/uart_driver.c:57:6:usart3_write_byte	2
+../Src/uart_driver.c:63:6:usart3_write_str	2
+../Src/uart_driver.c:71:5:usart3_read_byte_nonblocking	2
+../Src/uart_driver.c:81:9:usart3_read_byte_blocking	2
+../Src/uart_driver.c:86:6:uart3_flush_tc	2

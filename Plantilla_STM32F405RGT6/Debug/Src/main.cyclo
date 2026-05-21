@@ -1,0 +1,7 @@
+../Src/main.c:11:16:uart_spisend_received	5
+../Src/main.c:37:13:hex_digit	2
+../Src/main.c:43:13:uart_write_hex_byte	1
+../Src/main.c:56:13:led_pc13_init	1
+../Src/main.c:69:13:led_pc13_on	1
+../Src/main.c:74:13:led_pc13_off	1
+../Src/main.c:79:5:main	4

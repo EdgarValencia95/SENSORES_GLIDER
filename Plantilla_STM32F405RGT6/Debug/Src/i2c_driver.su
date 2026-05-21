@@ -1,0 +1,7 @@
+../Src/i2c_driver.c:7:24:i2c1_wait_flag_set	24	static
+../Src/i2c_driver.c:20:24:i2c1_wait_flag_clear	24	static
+../Src/i2c_driver.c:33:13:i2c1_clear_addr_flag	16	static
+../Src/i2c_driver.c:42:6:i2c1_pb6_pb7_init_100khz	4	static
+../Src/i2c_driver.c:97:17:i2c1_mem_write	24	static
+../Src/i2c_driver.c:142:17:i2c1_mem_read	24	static
+../Src/i2c_driver.c:226:17:i2c1_check_device	24	static

@@ -1,0 +1,7 @@
+../Src/uart_driver.c:6:17:usart_brr_from_pclk	24	static
+../Src/uart_driver.c:15:6:usart3_pb10_pb11_init_115200	24	static
+../Src/uart_driver.c:57:6:usart3_write_byte	16	static
+../Src/uart_driver.c:63:6:usart3_write_str	16	static
+../Src/uart_driver.c:71:5:usart3_read_byte_nonblocking	16	static
+../Src/uart_driver.c:81:9:usart3_read_byte_blocking	4	static
+../Src/uart_driver.c:86:6:uart3_flush_tc	4	static

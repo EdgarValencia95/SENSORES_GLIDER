@@ -1,0 +1,9 @@
+../Src/spi_driver.c:23:24:spi1_wait_flag_set	3
+../Src/spi_driver.c:36:24:spi1_wait_flag_clear	3
+../Src/spi_driver.c:49:6:spi1_cs_low	1
+../Src/spi_driver.c:54:6:spi1_cs_high	1
+../Src/spi_driver.c:59:13:spi1_response_delay	2
+../Src/spi_driver.c:68:6:spi1_pa5_pa6_pa7_init_mode3_prescaler32	1
+../Src/spi_driver.c:126:17:spi1_transfer_byte	6
+../Src/spi_driver.c:159:17:spi1_transfer	6
+../Src/spi_driver.c:187:17:spi1_send_then_read_byte	4

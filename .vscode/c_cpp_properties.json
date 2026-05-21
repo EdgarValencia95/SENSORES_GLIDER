@@ -1,0 +1,20 @@
+{
+    "version": 4,
+    "configurations": [
+        {
+            "name": "STM32F405RGT6 Bare Metal",
+            "includePath": [
+                "${workspaceFolder}/**",                // Incluye todo el proyecto             
+                "${workspaceFolder}/Plantilla_STM32F405RGT6/Inc",    // Ruta a los encabezados de tu proyecto
+                "C:/Users/son_e/STM32CubeIDE/workspace_2.1.1/PATHS/Material_Especialidad_2026-main/Material_Especialidad_2026-main/Clase_02_Chip_headers/Drivers/CMSIS/Device/ST/STM32F4xx/Include",
+                "C:/Users/son_e/STM32CubeIDE/workspace_2.1.1/PATHS/Material_Especialidad_2026-main/Material_Especialidad_2026-main/Clase_02_Chip_headers/Drivers/CMSIS/Include"
+            ],
+            "defines": [
+                "STM32F405xx"                        // Define el microcontrolador STM32F405RGT6
+            ],
+            "cStandard": "c99",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-arm"                  // Configura IntelliSense para GCC ARM
+        }
+    ]
+}
