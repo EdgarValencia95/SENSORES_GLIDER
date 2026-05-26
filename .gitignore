@@ -1,0 +1,33 @@
+# STM32CubeIDE
+.metadata/
+
+# Build folders
+Debug/
+Release/
+
+# Eclipse
+.settings/
+*.launch
+
+# Logs
+*.log
+
+# Binary files
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+
+# Object files
+*.o
+*.d
+*.su
+*.cyclo
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
